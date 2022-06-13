@@ -1,5 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
-using Map.Data.Entities;
+﻿using Map.Data.Entities;
+using Microsoft.EntityFrameworkCore;
 
 namespace Map.Data.DBContext
 {

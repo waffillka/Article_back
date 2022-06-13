@@ -1,6 +1,6 @@
 ﻿using Map.Data.DBContext;
-using Microsoft.Extensions.DependencyInjection;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
 
 namespace Map.Data.Configuration
 {

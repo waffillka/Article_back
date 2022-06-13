@@ -1,6 +1,8 @@
-﻿namespace Map.Data.Entities
+﻿using Map.Core.Interfaces;
+
+namespace Map.Data.Entities
 {
-    public class User
+    public class User : ISoftDeleteable
     {
         public int Id { get; set; }
         public Guid Guid { get; set; }

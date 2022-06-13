@@ -1,6 +1,8 @@
-﻿namespace Map.Data.Entities
+﻿using Map.Core.Interfaces;
+
+namespace Map.Data.Entities
 {
-    public class Article
+    public class Article : ISoftDeleteable
     {
         public int Id { get; set; }
         public string Title { get; set; }
