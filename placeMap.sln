@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "placeMap", "placeMap\placeMap.csproj", "{4C1287F5-85B3-47F2-A9C9-1CDC9E0508D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Map.Data", "Map.Data\Map.Data.csproj", "{04C74EC4-7696-4DAC-84AC-322A8D022C24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Map.Services", "Map.Services\Map.Services.csproj", "{EBBE7CB4-6D81-4F0D-B536-0E0B04605C2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C1287F5-85B3-47F2-A9C9-1CDC9E0508D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C1287F5-85B3-47F2-A9C9-1CDC9E0508D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C1287F5-85B3-47F2-A9C9-1CDC9E0508D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C1287F5-85B3-47F2-A9C9-1CDC9E0508D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04C74EC4-7696-4DAC-84AC-322A8D022C24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04C74EC4-7696-4DAC-84AC-322A8D022C24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04C74EC4-7696-4DAC-84AC-322A8D022C24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04C74EC4-7696-4DAC-84AC-322A8D022C24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBBE7CB4-6D81-4F0D-B536-0E0B04605C2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBBE7CB4-6D81-4F0D-B536-0E0B04605C2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBBE7CB4-6D81-4F0D-B536-0E0B04605C2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBBE7CB4-6D81-4F0D-B536-0E0B04605C2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33E5C2F0-778B-4451-8BC0-12957F750A38}
+	EndGlobalSection
+EndGlobal
